@@ -76,6 +76,17 @@
       url: https://mp.weixin.qq.com/
       description: 再小的个体也有自己的品牌。
 
+- taxonomy: 小程序
+  icon: fab fa-weixin
+  links:
+    - title: 关注我们
+      logo: ""
+      url: https://bioitee.com
+      qrcode: assets/images/logos/qrcode.jpg
+      description: BioIT 爱好者！
+
+
+
 - taxonomy: 云服务器
   icon: fas fa-cloud
   links:
