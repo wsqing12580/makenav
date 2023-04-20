@@ -1,6 +1,6 @@
 # baseURL               = "https://wsqing12580.github.io/nav"
 languageCode          = "zh-CN"
-title                 = "青松导航站"
+title                 = "青松工作导航站"
 theme                 = "nav"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -10,12 +10,12 @@ publishDir            = "public"					# 站点静态文件保存目录
 
 [params]
     author        = "青松"
-    description   = "青松 网址导航 | Hugo 主题"
+    description   = "青松 工作导航 | Hugo 主题"
     upload        = "https://github.com/wsqing12580/nav/issues"  # 左侧导航栏的"网站提交"
-    about         = "https://shumlab.com/cookbook/webstack-hugo"	# 左侧导航栏的"关于导航"页面(./about)
-    repository    = "https://github.com/shenweiyan/WebStack-Hugo"  
+#     about         = "https://shumlab.com/cookbook/webstack-hugo"	# 左侧导航栏的"关于导航"页面(./about)
+    repository    = "https://github.com/wsqing12580/nav"
     enablePreLoad = true					# 网站完全打开前预加载动画
-    textPreLoad   = "青松 网址导航主题"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    textPreLoad   = "青松 工作导航主题"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false					# 默认展开左侧边导航栏
     logosPath     = "assets/images/logos"			# 网站每个导航地址logo存放地址
     defaultLogo   = "assets/images/logos/default.webp"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
@@ -45,4 +45,4 @@ publishDir            = "public"					# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：shumlab@foxmail.com <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Bio IT 爱好者](https://www.bioitee.com/) | [粤ICP备16023717号](http://beian.miit.gov.cn/)<br/>'
+    copyright = '本站导航主要用于工作书签，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱： awaken_admin@163.com <br/>&copy; 2022 - {year} By [WebStack-Hugo](https://github.com/wsqing12580/nav) | [qingsong IT民工](https://www.qingsong.fun/) | [粤ICP备2022117061号](http://beian.miit.gov.cn/)<br/>'
