@@ -7,7 +7,7 @@
       url: http://39.100.255.16:9052/login?entry=1
       description: 独立开发环境
     - title: 独立开发NS
-      logo: "https://www.chirpstack.io/img/logo.png"
+      logo: "https://api.iowen.cn/favicon/forum.chirpstack.io.png"
       url: http://39.100.255.16:8080/#
       description: 独立开发NS
 
@@ -54,7 +54,7 @@
       description: Link新奥生产环境
 
     - title: 独立生产NS
-      logo: "https://www.chirpstack.io/img/logo.png"
+      logo: "https://api.iowen.cn/favicon/forum.chirpstack.io.png"
       url: http://39.100.87.153:7776/
       description: Link独立生产NS
 
@@ -101,7 +101,7 @@
       description: 专业的云端知识库。
 
     - title: notion
-      logo: notion.jpg
+      logo: https://api.iowen.cn/favicon/www.notion.so.png
       url: https://www.notion.so/
       description: Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
 
