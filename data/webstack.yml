@@ -6,6 +6,16 @@
       logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
       url: http://39.100.255.16:9052/login?entry=1
       description: 独立开发环境
+    - title: 独立开发NS
+      logo: "https://www.chirpstack.io/img/logo.png"
+      url: http://39.100.255.16:8080/#
+      description: 独立开发NS
+
+    - title: 独立link接口文档
+      logo: "https://i.postimg.cc/63mhwM3p/sss.png"
+      url: http://8.142.87.56:9056/api/swagger-ui.html#/
+      description: 独立link接口文档
+
 
 - taxonomy: 测试环境
   icon: fas fa-vials
@@ -14,6 +24,21 @@
       logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
       url: http://123.58.243.90/#/login
       description: 新奥测试环境
+
+    - title: 新奥测试环境RabbitMQ
+      logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
+      url: http://123.58.243.90:15672/#/queues
+      description: 新奥测试环境RabbitMQ
+
+    - title: 新奥测试环境Dashboard
+      logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
+      url: http://10.39.33.37:18083/#/
+      description: 新奥测试环境Dashboard
+
+    - title: 智能家居场景
+      logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
+      url: http://39.100.255.16:9066/indoor
+      description: 智能家居场景
 
 - taxonomy: 生产环境
   icon: fas fa-briefcase
@@ -27,6 +52,12 @@
       logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
       url: https://iotlink.enncloud.cn/#/login
       description: Link新奥生产环境
+
+    - title: 独立生产NS
+      logo: "https://www.chirpstack.io/img/logo.png"
+      url: http://39.100.87.153:7776/
+      description: Link独立生产NS
+
 
 
 
