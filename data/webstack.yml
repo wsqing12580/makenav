@@ -79,11 +79,11 @@
 - taxonomy: 小程序
   icon: fab fa-weixin
   links:
-    - title: 关注我们
-      logo: ""
-      url: https://bioitee.com
-      qrcode: assets/images/logos/qrcode.jpg
-      description: BioIT 爱好者！
+    - title: 康静智家小程序
+      logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
+      url: https://link.cnlorahot.com/linkfront/login?entry=1
+      qrcode: assets/images/miniprogram/kjzj.jpg
+      description: 康静智家小程序码
 
 
 
