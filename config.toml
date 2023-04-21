@@ -15,7 +15,7 @@ publishDir            = "public"					# 站点静态文件保存目录
 #    upload        = "https://github.com/wsqing12580/kjnav/issues"  # 左侧导航栏的"网站提交"
 #     about         = "https://shumlab.com/cookbook/webstack-hugo"	# 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/wsqing12580/kjnav"
-    enablePreLoad = true					# 网站完全打开前预加载动画
+    enablePreLoad = false					# 网站完全打开前预加载动画
     textPreLoad   = "青松 康静工作导航"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false					# 默认展开左侧边导航栏
     logosPath     = "assets/images/logos"			# 网站每个导航地址logo存放地址
@@ -24,7 +24,7 @@ publishDir            = "public"					# 站点静态文件保存目录
     yiyan         = true                         		# 默认启用一言服务
 
 [params.seo]    
-    baiduhmid       = 'efccc04cb44fc49faddac5876180b369'	# 百度统计 hm.src 的 ID
+    baiduhmid       = 'bbb34e49a4b53de6a78cb36217d8d922'	# 百度统计 hm.src 的 ID
     baiduSiteVer    = 'codeva-cCAOSG8MBO'			# 百度HTML标签验证(baidu-site-verification)
     tj51laid        = ''                        		# 51.LA 网站统计
     tj51lack        = ''
