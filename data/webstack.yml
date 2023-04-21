@@ -16,7 +16,6 @@
       url: http://8.142.87.56:9056/api/swagger-ui.html#/
       description: 独立link接口文档
 
-
 - taxonomy: 测试环境
   icon: fas fa-vials
   links:
@@ -24,9 +23,14 @@
       logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
       url: http://123.58.243.90/#/login
       description: 新奥测试环境
+    - title: 新奥测试NS平台
+      logo: testns.ico
+      url: http://10.39.33.65:7777
+      description: 新奥测试NS平台
+
 
     - title: 新奥测试环境RabbitMQ
-      logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
+      logo: mq.ico
       url: http://123.58.243.90:15672/#/queues
       description: 新奥测试环境RabbitMQ
 
@@ -75,6 +79,13 @@
       logo: https://api.iowen.cn/favicon/weixin.qq.com.png
       url: https://mp.weixin.qq.com/
       description: 再小的个体也有自己的品牌。
+
+    - title: 蓝湖
+      logo: https://sso-cdn.lanhuapp.com/ssoweb/favicon.ico
+      url: https://lanhuapp.com/
+      description: 产品设计研发协作工具
+
+
 
 - taxonomy: 小程序
   icon: fab fa-weixin
