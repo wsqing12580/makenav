@@ -72,7 +72,7 @@
       description: 飞书
 
     - title: 微信公众号平台
-      logo: 微信公众号.png
+      logo: https://api.iowen.cn/favicon/weixin.qq.com.png
       url: https://mp.weixin.qq.com/
       description: 再小的个体也有自己的品牌。
 
@@ -84,8 +84,45 @@
       url: https://link.cnlorahot.com/linkfront/login?entry=1
       qrcode: assets/images/miniprogram/kjzj.jpg
       description: 康静智家小程序码
-
-
+    - title: 康静kJInside小程序
+      logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
+      url: https://link.cnlorahot.com/linkfront/login?entry=1
+      qrcode: assets/images/miniprogram/kJInside.jpg
+      description: 康静kJInside小程序码
+    - title: JOY小程序
+      logo: "http://39.108.155.174:9052/favicon.ico"
+      url: http://39.108.155.174:9052/login
+      qrcode: assets/images/miniprogram/JOY.jpg
+      description: JOY小程序码
+    - title: 山西学前教育学会小程序
+      logo: "http://edu.childevp.com/file/156116838180579.png"
+      url: http://39.108.155.174:9052/login
+      qrcode: assets/images/miniprogram/sxxqjyxh.jpg
+      description: 山西学前教育学会小程序
+    - title: 微信公众平台
+      logo: https://api.iowen.cn/favicon/weixin.qq.com.png
+      url: https://mp.weixin.qq.com/
+      description: 再小的个体也有自己的品牌。
+    - title: 康静智家小程序体验码
+      logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
+      url: https://link.cnlorahot.com/linkfront/login?entry=1
+      qrcode: assets/images/miniprogram/kjzj-demo.jpg
+      description: 康静智家小程序体验码
+    - title: kJInside小程序体验码
+      logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
+      url: https://link.cnlorahot.com/linkfront/login?entry=1
+      qrcode: assets/images/miniprogram/kJInside-demo.jpg
+      description: kJInside小程序体验码
+    - title: JOY小程序体验码
+      logo: "http://39.108.155.174:9052/favicon.ico"
+      url: http://39.108.155.174:9052/login
+      qrcode: assets/images/miniprogram/JOY-demo.jpg
+      description: JOY小程序体验码
+    - title: 山西学前教育学会小程序体验码
+      logo: "http://edu.childevp.com/file/156116838180579.png"
+      url: http://39.108.155.174:9052/login
+      qrcode: assets/images/miniprogram/sxxqjyxh-demo.jpg
+      description: 山西学前教育学会小程序体验码
 
 - taxonomy: 云服务器
   icon: fas fa-cloud
