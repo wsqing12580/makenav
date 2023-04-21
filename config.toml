@@ -1,7 +1,7 @@
-# baseURL               = "https://wsqing12580.github.io/nav"
+baseURL               = "https://wsqing12580.github.io/kjnav"
 languageCode          = "zh-CN"
 title                 = "青松工作导航站"
-theme                 = "nav"
+theme                 = "kjnav"
 preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true
@@ -11,9 +11,10 @@ publishDir            = "public"					# 站点静态文件保存目录
 [params]
     author        = "青松"
     description   = "青松 工作导航 | Hugo 主题"
-    upload        = "https://github.com/wsqing12580/nav/issues"  # 左侧导航栏的"网站提交"
+    upload        = "assets/images/Wechat-Card.jpg"
+#    upload        = "https://github.com/wsqing12580/kjnav/issues"  # 左侧导航栏的"网站提交"
 #     about         = "https://shumlab.com/cookbook/webstack-hugo"	# 左侧导航栏的"关于导航"页面(./about)
-    repository    = "https://github.com/wsqing12580/nav"
+    repository    = "https://github.com/wsqing12580/kjnav"
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "青松 工作导航"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false					# 默认展开左侧边导航栏
@@ -45,4 +46,4 @@ publishDir            = "public"					# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = '本站导航主要用于工作书签，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱： awaken_admin@163.com <br/>&copy; 2022 - {year} By [WebStack-Hugo](https://github.com/wsqing12580/nav) | [qingsong IT民工](https://www.qingsong.fun/) | [粤ICP备2022117061号](http://beian.miit.gov.cn/)<br/>'
+    copyright = '本站导航主要用于工作书签，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱： awaken_admin@163.com <br/>&copy; 2022 - {year} By [WebStack-Hugo](https://github.com/wsqing12580/kjnav) | [qingsong IT民工](https://www.qingsong.fun/) | [粤ICP备2022117061号](http://beian.miit.gov.cn/)<br/>'
