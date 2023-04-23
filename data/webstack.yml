@@ -129,6 +129,11 @@
 - taxonomy: 人工智能模型
   icon: fas fa-book-open
   links:
+    - title: aiasker ChatGPT
+      logo: https://www.aiasker.online/apple-touch-icon.png
+      url: https://www.aiasker.online
+      description: aiasker ChatGPT
+
     - title: ChatGPT聊天
       logo: https://api.iowen.cn/favicon/openai.com.png
       url: https://bettergpt.chat/
