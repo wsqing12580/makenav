@@ -22,22 +22,36 @@
       logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
       url: http://123.58.243.90/#/login
       description: 新奥测试环境
-    - title: 新奥测试NS平台
-      logo: testns.ico
-      url: http://10.39.33.65:7777
-      description: 新奥测试NS平台
-    - title: 新奥测试环境RabbitMQ
-      logo: mq.ico
-      url: http://123.58.243.90:15672/#/queues
-      description: 新奥测试环境RabbitMQ
-    - title: 新奥测试环境Dashboard
+
+    - title: 产线测试环境
       logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
-      url: http://10.39.33.37:18083/#/
-      description: 新奥测试环境Dashboard
+      url: http://10.39.33.65:9055
+      description: 产线测试环境
+
     - title: 智能家居场景
       logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
       url: http://39.100.255.16:9066/indoor
       description: 智能家居场景
+
+    - title: 新奥测试NS平台
+      logo: testns.ico
+      url: http://10.39.33.65:7777
+      description: 新奥测试NS平台
+
+    - title: 产线测试NS平台
+      logo: testns.ico
+      url: http://123.58.243.22:7777
+      description: 产线测试NS平台
+
+    - title: 新奥测试环境RabbitMQ
+      logo: mq.ico
+      url: http://123.58.243.90:15672/#/queues
+      description: 新奥测试环境RabbitMQ
+
+    - title: 新奥测试环境Dashboard
+      logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
+      url: http://10.39.33.37:18083/#/
+      description: 新奥测试环境Dashboard
 
 - taxonomy: 生产环境
   icon: fas fa-briefcase
@@ -50,14 +64,43 @@
       logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
       url: https://iotlink.enncloud.cn/#/login
       description: Link新奥生产环境
+
+    - title: 产线Link生产环境
+      logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
+      url: http://10.39.33.22:9055
+      description: 产线Link生产环境
+
+    - title: 场景应用展示平台
+      logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
+      url: http://123.58.243.138:9066/indoor
+      description: 场景应用展示平台
+
     - title: 独立生产NS
       logo: "https://api.iowen.cn/favicon/forum.chirpstack.io.png"
       url: http://39.100.87.153:7776/
       description: Link独立生产NS
+    - title: 新奥生产NS
+      logo: "https://api.iowen.cn/favicon/forum.chirpstack.io.png"
+      url: http://iotlink.enncloud.cn:7777/
+      description: 新奥生产NS
+    - title: 产线生产NS
+      logo: "https://api.iowen.cn/favicon/forum.chirpstack.io.png"
+      url: http://10.39.33.22:7777
+      description: 产线NS
     - title: 独立生产RabbitMQ
       logo: mq.ico
       url: http://8.142.83.79:15672
       description: 独立生产RabbitMQ
+
+    - title: 平台运维ELK
+      logo: "https://www.elastic.co/apple-icon-57x57.png"
+      url: http://123.58.243.90:19201
+      description: 平台运维ELK
+
+    - title: 新智云
+      logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
+      url: http://10.39.59.13:9950
+      description: 新智云
 
 - taxonomy: 项目管理
   icon: fas fa-briefcase
@@ -185,6 +228,10 @@
           logo: https://api.iowen.cn/favicon/www.notion.so.png
           url: https://www.notion.so/
           description: Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+        - title: 飞书云文档
+          logo: https://api.iowen.cn/favicon/www.feishu.cn.png
+          url: https://tson74e3fe.feishu.cn/drive/shared/
+          description: 共享空间 - 飞书云文档
 
     - term: 云服务器
       icon: fas fa-cloud
@@ -201,7 +248,6 @@
           logo: 华为云.png
           url: https://www.huaweicloud.com/
           description: 提供云计算服务+智能，见未来-华为云。
-
 
     - term: 博客社区
       icon: far fa-star
@@ -222,7 +268,6 @@
           logo: https://api.iowen.cn/favicon/www.csdn.net.png
           url: https://www.csdn.net/
           description: CSDN - 专业开发者社区
-
         - title: 知乎
           logo: 知乎.png
           url: https://www.zhihu.com/
