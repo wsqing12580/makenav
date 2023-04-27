@@ -135,16 +135,6 @@
       url: https://link.cnlorahot.com/linkfront/login?entry=1
       qrcode: assets/images/miniprogram/kJInside.jpg
       description: 康静kJInside小程序码
-    - title: JOY小程序
-      logo: "http://39.108.155.174:9052/favicon.ico"
-      url: http://39.108.155.174:9052/login
-      qrcode: assets/images/miniprogram/JOY.jpg
-      description: JOY小程序码
-    - title: 山西学前教育学会小程序
-      logo: "http://edu.childevp.com/file/156116838180579.png"
-      url: http://39.108.155.174:9052/login
-      qrcode: assets/images/miniprogram/sxxqjyxh.jpg
-      description: 山西学前教育学会小程序
     - title: 康静智家小程序体验码
       logo: "https://link.cnlorahot.com/linkfront/favicon.ico"
       url: https://link.cnlorahot.com/linkfront/login?entry=1
@@ -155,16 +145,7 @@
       url: https://link.cnlorahot.com/linkfront/login?entry=1
       qrcode: assets/images/miniprogram/kJInside-demo.jpg
       description: kJInside小程序体验码
-    - title: JOY小程序体验码
-      logo: "http://39.108.155.174:9052/favicon.ico"
-      url: http://39.108.155.174:9052/login
-      qrcode: assets/images/miniprogram/JOY-demo.jpg
-      description: JOY小程序体验码
-    - title: 山西学前教育学会小程序体验码
-      logo: "http://edu.childevp.com/file/156116838180579.png"
-      url: http://39.108.155.174:9052/login
-      qrcode: assets/images/miniprogram/sxxqjyxh-demo.jpg
-      description: 山西学前教育学会小程序体验码
+
 - taxonomy: 人工智能模型
   icon: fas fa-book-open
   links:
